@@ -4,12 +4,11 @@
 #######################
 mess = """======================================================
              Deface Script Creator        
-                        B3T4 ID.
+                        Ubaii ID.
 ======================================================"""
 
 print mess
-print "Created by B3T4 ID"
-nama = raw_input("file html
+print "Created by Ubaii ID"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
@@ -20,7 +19,7 @@ youtubeid = raw_input("youtube kode (MUSIK): ")
 
 
 #Open the index
-fo = open("nama.html","w")
+fo = open("script.html","w")
 
 messagescript1 = """<html><head><title>"""
 
