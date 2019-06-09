@@ -11,14 +11,14 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |   \033[91mGitHub: https://github.com/TuanB3T4/FCM-SCRIPT   \033[33m |
 |_____________________________________________________|"""
 print mess
-print "(\033[91mCreated by B3T4 ID)"
-title = raw_input("\033[91m[+] \033[36mJudul title: ")
-heading = raw_input("033[91m[+] \033[36mHacked by: ")
-imagelink = raw_input("\033[91m[+] \033[36mlink gambar (tengah): ")
-bgimage = raw_input("\033[91m[+] \033[36mlink gambar (background): ")
-message = raw_input("\033[91m[+] \033[36mPesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("\033[91m[+] \033[36mWarna text (contoh=green): ")
-youtubeid = raw_input("\033[91m[+] \033[36mYoutube kode (MUSIK): ")
+print "(\Created by B3T4 ID)"
+title = raw_input("Judul title: ")
+heading = raw_input("Hacked by: ")
+imagelink = raw_input("Link gambar (tengah): ")
+bgimage = raw_input("Link gambar (background): ")
+message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+textcolor = raw_input("Warna text (contoh=green): ")
+youtubeid = raw_input("Youtube kode (MUSIK): ")
 
 
 #Open the index
