@@ -11,7 +11,7 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |   \033[91mGitHub: https://github.com/TuanB3T4/FCM-SCRIPT   \033[33m |
 |_____________________________________________________|"""
 print mess
-print "(\Created by B3T4 ID)"
+print "\033[91m(Created by B3T4 ID)"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("Link gambar (tengah): ")
@@ -19,7 +19,7 @@ bgimage = raw_input("Link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 textcolor = raw_input("Warna text (contoh=green): ")
 youtubeid = raw_input("Youtube kode (MUSIK): ")
-
+Hello= raw_input("pesan script: ")
 
 #Open the index
 fo = open("script.html","w")
@@ -133,7 +133,7 @@ messagescript7 = """ [=]</font>
 
 messagescript8 = imagelink
 
-messagescript9 = """ width=450px height=340px>
+messagescript9 = """ width=900px height=530px>
 <body onload="init()"></body>
 <body>
 <div id="bulle"></div>"""
@@ -179,8 +179,28 @@ setTimeout("machine_a_ecrire()",70)
 else
 return
 }
+
+<marquee behavior="scroll" direction="left" scrollamount="90" scrolldelay="40" width="100%">
+<font color="green">___________________________________________________________</font></marquee>
+<div style="text-shadow: 0px 0px 10px green;"><span style="color: white;"><font face="transformers"><b>Thanks To : <marquee scrollamount="5" direction="left" width="50%"><span style="color: red;"> <span style="color: red;">"[ B3T4 ]"<span style="color: red;"></b></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script>
+<marquee behavior="scroll" direction="right" scrollamount="90" scrolldelay="40" width="100%">
+<font color="green">___________________________________________________________</font></marquee>
+
 </script><font face="Orbitron" size="1"><blink><span style="color: rgb(255, 255, 255);"><b><font color=lime size=4></font></b></u></blink><br></font></b>
-<a href="/index.php"><img style="position:fixed;bottom:0px;z-index:1000;right:-10px;"  src="http://static1.squarespace.com/static/5706c12007eaa0b82399660d/5706c68bf0bc33987cae6c71/577d5c5d37c581fd0e25c10b/1469717705608/insult-145142_1280.png" type="image/gif" width="150"></a></body>
+<font face="Courier" color="green" size="3">Contact me</font> 
+    <br>
+ <font face="Courier" color="green" size="3">TuanB3T4@gmail.com</font>
+ <br>	 
+  
+  <a href="https://api.whatsapp.com/send?phone=+6285694011450&text=*Assalamualaikum%20bang%20kok%20lu%20ganteng*"><font face="Courier" color="green" size="3">[+]Tuan B3T4[+]</a>  </br>
+  <br><font face="Courier" color="red" size="3">Copyright FRIENDS CYBER MUSLIM  2k19</font> </center>
+  
+<br><br><br><br><br><br>
+
+<font face="Courier" color="red" size="3">Copyright Tuan B3T4 2k19</font>  
+   </body></html> 
+
+
 <!-- CSS --><style>
 .t3x { font-family: pirata one; -webkit-animation-name: blinker; -webkit-animation-duration: 2s; -webkit-animation-timing-function: linear; -webkit-animation-iteration-count: infinite; -moz-animation-name: blinker; -moz-animation-duration: 1s; -moz-animation-timing-function: linear; -moz-animation-iteration-count: infinite; animation-name: blinker; animation-duration: 1s; animation-timing-function: linear; animation-iteration-count: infinite; color: #385164; } @-moz-keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } @-webkit-keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } @keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } } 
 .CenterDiv{width:650px;border:1px #ff0000 solid;padding:5px;margin:0px auto; background: url('http://i.imgur.com/sDbaMsW.gif');}
@@ -194,6 +214,11 @@ messagescript15 = youtubeid
 
 messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
 
+messagescript17 = """  <script>alert('"""
+
+messagescript18 = Hello
+
+messagescript19 = """')</script>"""
 
 fo.write(messagescript1)
 fo.write(messagescript2)
