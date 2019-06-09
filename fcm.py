@@ -12,13 +12,13 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |_____________________________________________________|"""
 print mess
 print "(\033[91mCreated by B3T4 ID)"
-title = raw_input("\033[91m[×]\033[36mJudul title: ")
-heading = raw_input("033[91m[×]\033[36mHacked by: ")
-imagelink = raw_input("\033[91m[×]\033[36mlink gambar (tengah): ")
-bgimage = raw_input("\033[91m[×]\033[36mlink gambar (background): ")
-message = raw_input("\033[91m[×]\033[36mPesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("\033[91m[×]\033[36mWarna text (contoh=green): ")
-youtubeid = raw_input("\033[91m[×]\033[36mYoutube kode (MUSIK): ")
+title = raw_input("\033[91m[+] \033[36mJudul title: ")
+heading = raw_input("033[91m[+] \033[36mHacked by: ")
+imagelink = raw_input("\033[91m[+] \033[36mlink gambar (tengah): ")
+bgimage = raw_input("\033[91m[+] \033[36mlink gambar (background): ")
+message = raw_input("\033[91m[+] \033[36mPesan. gunakan kode <br> untuk text selanjutnya! : ")
+textcolor = raw_input("\033[91m[+] \033[36mWarna text (contoh=green): ")
+youtubeid = raw_input("\033[91m[+] \033[36mYoutube kode (MUSIK): ")
 
 
 #Open the index
