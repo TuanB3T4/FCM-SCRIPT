@@ -1,24 +1,24 @@
 #!/usr/bin/python
 #############################################
-mess = """
-"\033[33m             ) _     _
+mess = """\033[33m  
+                      ) _     _
                      ( (^)-~-(^)
-___________________,-.\_( \033[91m6 6 "\033[33m )__,-.___________________
+___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |                  'M'   \   /   'M'                  |
 |                         >o<                         |
-|                \033[91mScript Deface Creator                \033[33m |
-|                    \033[91mAuthor: \033[36mB3T4                     \033[33m |
-|   \033[91mGitHub: \033[36mhttps://github.com/TuanB3T4/FCM-SCRIPT   \033[33m  |
+|                \033[91mScript Deface Creator                \033[33m|
+|                     \033[91mAuthor: B3T4                    \033[33m|
+|   \033[91mGitHub: https://github.com/TuanB3T4/FCM-SCRIPT   \033[33m |
 |_____________________________________________________|"""
 print mess
-print "Created by B3T4 ID"
-title = raw_input("Judul title: ")
-heading = raw_input("Hacked by: ")
-imagelink = raw_input("link gambar (tengah): ")
-bgimage = raw_input("link gambar (background): ")
-message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("Warna text (contoh=green): ")
-youtubeid = raw_input("youtube kode (MUSIK): ")
+print "\033[91mCreated by B3T4 ID"
+title = raw_input("\033[91m[×]\033[36mJudul title: ")
+heading = raw_input("033[91m[×]\033[36mHacked by: ")
+imagelink = raw_input("\033[91m[×]\033[36mlink gambar (tengah): ")
+bgimage = raw_input("\033[91m[×]\033[36mlink gambar (background): ")
+message = raw_input("\033[91m[×]\033[36mPesan. gunakan kode <br> untuk text selanjutnya! : ")
+textcolor = raw_input("\033[91m[×]\033[36mWarna text (contoh=green): ")
+youtubeid = raw_input("\033[91m[×]\033[36mYoutube kode (MUSIK): ")
 
 
 #Open the index
@@ -213,6 +213,6 @@ fo.write(messagescript15)
 fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
-print "Kontak : fb.com/B3T4.id.9"
+print "TERIMAKASIH TELAH MENGGUNAKAN TOOLS INI"
 
 fo.close()
