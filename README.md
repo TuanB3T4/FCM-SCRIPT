@@ -9,15 +9,15 @@ $ apt install python2 -Y (Enter)
 
 $ apt install git -Y (Enter)
 
-$ git clone https://github.com/4L13199/LITESCRIPT
+$ git clone https://github.com/TuanB3T4/FCM-SCRIPT
 
 $ ls
 
-$ cd LITESCRIPT
+$ cd FCM-SCRIPT
 
 $ ls
 
-$ python2 LITESCRIPT.py
+$ python2 fcm.py
 
 Kalo sudah jadi scriptnya kita pindahin
 Ke memori internal cara nya
