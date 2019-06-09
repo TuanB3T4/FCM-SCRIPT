@@ -179,6 +179,9 @@ setTimeout("machine_a_ecrire()",70)
 else
 return
 }
+
+</script><font face="Orbitron" size="1"><blink><span style="color: rgb(255, 255, 255);"><b><font color=lime size=4></font></b></u></blink><br></font></b>
+
 <br><br><br>
 <marquee behavior="scroll" direction="left" scrollamount="90" scrolldelay="40" width="100%">
 <font color="green">___________________________________________________________</font></marquee>
@@ -186,7 +189,7 @@ return
 <marquee behavior="scroll" direction="right" scrollamount="90" scrolldelay="40" width="100%">
 <font color="green">___________________________________________________________</font></marquee>
 
-</script><font face="Orbitron" size="1"><blink><span style="color: rgb(255, 255, 255);"><b><font color=lime size=4></font></b></u></blink><br></font></b>
+
 <font face="Courier" color="green" size="6">Contact me</font> 
     <br>
  <font face="Courier" color="green" size="6">TuanB3T4@gmail.com</font>
@@ -199,7 +202,6 @@ return
 
 <font face="Courier" color="red" size="4">Copyright Tuan B3T4 2k19</font>  
 </center>
-   </body></html> 
 
 
 <!-- CSS --><style>
@@ -215,11 +217,11 @@ messagescript15 = youtubeid
 
 messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
 
-messagescript17 = """  <script>alert('"""
+messagescript17 = """<script>alert(""""
 
 messagescript18 = Hello
 
-messagescript19 = """')</script>"""
+messagescript19 = """")</script>"""
 
 fo.write(messagescript1)
 fo.write(messagescript2)
