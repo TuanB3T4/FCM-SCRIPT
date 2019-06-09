@@ -12,7 +12,7 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |_____________________________________________________|"""
 print mess
 print "\033[91m(Created by B3T4 ID)"
-title = raw_input("Judul title: ")
+title = raw_input("\033[36mJudul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("Link gambar (tengah): ")
 bgimage = raw_input("Link gambar (background): ")
@@ -179,7 +179,7 @@ setTimeout("machine_a_ecrire()",70)
 else
 return
 }
-
+<br><br><br>
 <marquee behavior="scroll" direction="left" scrollamount="90" scrolldelay="40" width="100%">
 <font color="green">___________________________________________________________</font></marquee>
 <div style="text-shadow: 0px 0px 10px green;"><span style="color: white;"><font face="transformers"><b>Thanks To : <marquee scrollamount="5" direction="left" width="50%"><span style="color: red;"> <span style="color: red;">"[ B3T4 ]"<span style="color: red;"></b></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script>
@@ -187,17 +187,18 @@ return
 <font color="green">___________________________________________________________</font></marquee>
 
 </script><font face="Orbitron" size="1"><blink><span style="color: rgb(255, 255, 255);"><b><font color=lime size=4></font></b></u></blink><br></font></b>
-<font face="Courier" color="green" size="3">Contact me</font> 
+<font face="Courier" color="green" size="6">Contact me</font> 
     <br>
- <font face="Courier" color="green" size="3">TuanB3T4@gmail.com</font>
+ <font face="Courier" color="green" size="6">TuanB3T4@gmail.com</font>
  <br>	 
   
   <a href="https://api.whatsapp.com/send?phone=+6285694011450&text=*Assalamualaikum%20bang%20kok%20lu%20ganteng*"><font face="Courier" color="green" size="3">[+]Tuan B3T4[+]</a>  </br>
-  <br><font face="Courier" color="red" size="3">Copyright FRIENDS CYBER MUSLIM  2k19</font> </center>
+  
   
 <br><br><br><br><br><br>
 
-<font face="Courier" color="red" size="3">Copyright Tuan B3T4 2k19</font>  
+<font face="Courier" color="red" size="4">Copyright Tuan B3T4 2k19</font>  
+</center>
    </body></html> 
 
 
