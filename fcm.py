@@ -25,30 +25,22 @@ youtubeid = raw_input("youtube kode (MUSIK): ")
 #Open the index
 fo = open("script.html","w")
 
-messagescript1 = """<!DOCTYPE html><html><link rel="icon" type="image/gif" href="http://i62.tinypic.com/wanhu0.png"><head><title>"""
-
+messagescript1 = """<!DOCTYPE html><html>
+<link rel="icon" type="image/gif" href="http://i62.tinypic.com/wanhu0.png">
+<head>
+<title>"""
 messagescript2 = title
 
-messagescript3 = """</title> 
+messagescript3 = """</title>
 </head>
-<body>
-<style> @import url('https://fonts.googleapis.com/css?family=Pirata+One'); 
-
-body {
-background-image:url("""
+<body> 
+<body bgcolor="#000000" background =
 
 messagescript4 = bgimage
 
-messagescript5 = """);
-background-size: cover;
-background-repeat: no-repeat;      background-attachment: fixed;      background-position: top;     background-color:#000000;     
-position: relative;
-background-size:100% 100vh;         
- } 
-.t3x { font-family: pirata one; -webkit-animation-name: blinker; -webkit-animation-duration: 2s; -webkit-animation-timing-function: linear; -webkit-animation-iteration-count: infinite; -moz-animation-name: blinker; -moz-animation-duration: 1s; -moz-animation-timing-function: linear; -moz-animation-iteration-count: infinite; animation-name: blinker; animation-duration: 1s; animation-timing-function: linear; animation-iteration-count: infinite; color: #385164; } @-moz-keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } @-webkit-keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } @keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } } } </style>
-
+messagescript5 = """><div class='CenterDiv'>
 <center>
-<font face="Bradley Hand ITC" size="24"><center>
+<center><font face="pirata one" size="20">
 <script>
 farbbibliothek = new Array();
 farbbibliothek[0] = new Array("#FF0000","#FF1100","#FF2200","#FF3300","#FF4400","#FF5500","#FF6600","#FF7700","#FF8800","#FF9900","#FFaa00","#FFbb00","#FFcc00","#FFdd00","#FFee00","#FFff00","#FFee00","#FFdd00","#FFcc00","#FFbb00","#FFaa00","#FF9900","#FF8800","#FF7700","#FF6600","#FF5500","#FF4400","#FF3300","#FF2200","#FF1100");
@@ -112,8 +104,7 @@ farben = farben.concat(farben);
 farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001));
 }
 setInterval("farbtauscher()",5000);
-text= "{+} Your Website Has Been Hacked By == Tuan B3T4 {+}";
-
+text= "{=} Your Website Has Been Hacked {=}";
 
 string2array(text);
 divserzeugen();
@@ -130,16 +121,16 @@ window.resizeTo(screen.availWidth, screen.availHeight);
 expand();*/
 </script>
 </font> 
+</center> 
 	
 <h1 class="t3x">	 
-<font color="white" style="text-shadow: 0 0 20px orange, 0 0 5px orange, 0 0 7px orange, 0 0 45px orange; font-weight:bold: orange;font-size:60px">"""
+	<font color="white" style="text-shadow: 0 0 20px orange, 0 0 5px orange, 0 0 7px orange, 0 0 45px orange; font-weight:bold: orange;font-size:60px">[=] """
 
 messagescript6 = heading
 
-messagescript7 = """</font>
-	<font color="black" style="color:black;text-shadow: 0 0 3px red, 0px 0px 5px red;font-size:60;"></font>
-	<font color="white" style="text-shadow: 0 0 20px black, 0 0 5px black, 0 0 7px black, 0 0 45px black; font-weight:bold: blue;font-size:60px"></font>
-	</h1>
+messagescript7 = """<</font>
+	</h1>"""
+
 <img src=""" 
 
 messagescript8 = imagelink
