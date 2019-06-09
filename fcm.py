@@ -19,7 +19,7 @@ bgimage = raw_input("Link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 textcolor = raw_input("Warna text (contoh=green): ")
 youtubeid = raw_input("Youtube kode (MUSIK): ")
-Hello= raw_input("pesan script: ")
+Hello = raw_input("pesan script: ")
 
 #Open the index
 fo = open("script.html","w")
@@ -182,7 +182,7 @@ return
 <br><br><br>
 <marquee behavior="scroll" direction="left" scrollamount="90" scrolldelay="40" width="100%">
 <font color="green">___________________________________________________________</font></marquee>
-<div style="text-shadow: 0px 0px 10px green;"><span style="color: white;"><font face="transformers"><b>Thanks To : <marquee scrollamount="5" direction="left" width="50%"><span style="color: red;"> <span style="color: red;">"[ B3T4 ]"<span style="color: red;"></b></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script>
+<div style="text-shadow: 0px 0px 10px green;"><span style="color: white;"><font face="transformers"><b>Thanks To : <marquee scrollamount="5" direction="left" width="50%"><span style="color: red;"> <span style="color: red;">[ B3T4 ]<span style="color: red;"></b></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script>
 <marquee behavior="scroll" direction="right" scrollamount="90" scrolldelay="40" width="100%">
 <font color="green">___________________________________________________________</font></marquee>
 
