@@ -34,7 +34,7 @@ messagescript2 = title
 messagescript3 = """</title>
 </head>
 <body> 
-<body bgcolor="#000000" background =
+<body bgcolor="#000000" background ="""
 
 messagescript4 = bgimage
 
@@ -128,7 +128,7 @@ expand();*/
 
 messagescript6 = heading
 
-messagescript7 = """<</font>
+messagescript7 = """ [=]</font>
 	</h1>"""
 
 <img src=""" 
