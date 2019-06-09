@@ -11,7 +11,7 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 |   \033[91mGitHub: https://github.com/TuanB3T4/FCM-SCRIPT   \033[33m |
 |_____________________________________________________|"""
 print mess
-print "\033[91mCreated by B3T4 ID"
+print "(\033[91mCreated by B3T4 ID)"
 title = raw_input("\033[91m[×]\033[36mJudul title: ")
 heading = raw_input("033[91m[×]\033[36mHacked by: ")
 imagelink = raw_input("\033[91m[×]\033[36mlink gambar (tengah): ")
