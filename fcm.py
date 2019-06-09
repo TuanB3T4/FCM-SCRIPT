@@ -13,13 +13,13 @@ ___________________,-.\_( \033[91m6 6 \033[33m )__,-.___________________
 print mess
 print "\033[91m(Created by B3T4 ID)"
 title = raw_input("\033[36mJudul title: ")
-heading = raw_input("Hacked by: ")
-imagelink = raw_input("Link gambar (tengah): ")
-bgimage = raw_input("Link gambar (background): ")
+heading = raw_input("Font diatasi gambar: ")
+imagelink = raw_input("Masukan link gambar jpg,png/gif (tengah): ")
+bgimage = raw_input("Link gambar jpg/png (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("Warna text (contoh=green): ")
+textcolor = raw_input("Masukan warna font (contoh=green): ")
 youtubeid = raw_input("Youtube kode (MUSIK): ")
-Hello = raw_input("pesan script: ")
+aler = raw_input("Pesan pembuka: ")
 
 #Open the index
 fo = open("script.html","w")
@@ -218,7 +218,7 @@ messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
 
 messagescript17 = """<script>alert(""""
 
-messagescript18 = Hello
+messagescript18 = aler
 
 messagescript19 = """")</script>"""
 
